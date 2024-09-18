@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#blog-list {
+    margin-top: 20px;
+}
+
+.blog-post {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.blog-post:hover {
+    background-color: #f0f0f0;
+}
